@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a [MicroProfile](https://microprofile.io/) based reference application implemented through Payara Micro. This is intended to be a pyk for creating any new microservice.
+This is a [MicroProfile](https://microprofile.io/) based reference application implemented through Payara Micro. This is intended to be a blueprint for creating any new microservice.
 
 The generation of the executable jar file can be performed by issuing the following command
 
