@@ -4,6 +4,15 @@
 
 This is a [MicroProfile](https://microprofile.io/) based reference application implemented through Payara Micro. This is intended to be a blueprint for creating any new microservice.
 
+To create a new microservice, just run:
+     
+     bin/init.sh
+
+Enter the package name (groupId) like _com.example_
+
+Enter the project name  like _mynewservice_
+
+
 The generation of the executable jar file can be performed by issuing the following command
 
     mvn clean package
